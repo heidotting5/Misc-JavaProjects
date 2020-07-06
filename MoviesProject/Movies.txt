@@ -1,0 +1,67 @@
+The Shawshank Redemption
+C0000001
+100
+19.95
+DVD
+4
+5
+3
+1
+-1
+The Dark Knight
+C0000003
+50
+19.95
+DVD
+5
+2
+3
+-1
+Casablanca
+C0000007
+137
+9.95
+DVD
+5
+4
+5
+3
+-1
+The Girl With The Dragon Tattoo
+C0000015
+150
+14.95
+Book
+4
+4
+2
+-1
+Vertigo
+C0000023
+55
+9.95
+DVD
+5
+5
+3
+5
+2
+4
+-1
+A Game of Thrones
+C0000019
+100
+8.95
+Book
+-1
+Rick and Morty
+C0004325
+1000
+10.75
+DVD
+10
+1
+5
+7
+4
+-1
